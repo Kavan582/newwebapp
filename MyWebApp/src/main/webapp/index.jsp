@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Some relevant title</title>
+<title>Hello World</title>
 </head>
 <body>
 	<h2>We are creating scripted pipeline to implement CI !!!</h2>
